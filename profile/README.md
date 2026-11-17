@@ -13,6 +13,8 @@ Pricing is pay per result, and failed or robots-blocked pages aren't billed. We 
 
 Walkthrough with JS and Python code: [docs site to Markdown for RAG on dev.to](https://dev.to/datlab/turning-a-docs-site-into-clean-markdown-for-rag-for-about-10-cents-per-1000-pages-1nfp)
 
-Using an MCP client? You can pin an actor on Apify's hosted server: `https://mcp.apify.com/?tools=fetch-actor-details,datlab/site-to-markdown-crawler`
+Open-source MCP server that wraps all six, with your own Apify token: [datlabhq/datlab-mcp](https://github.com/datlabhq/datlab-mcp)
+
+Using an MCP client? You can pin an actor on Apify's hosted server: `https://mcp.apify.com/?tools=fetch-actor-details,datlab/site-to-markdown-crawler`. Or run the DatLab MCP server above.
 
 Found a page that converts badly? Open an issue here with the public URL.
