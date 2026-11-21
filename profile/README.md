@@ -17,4 +17,6 @@ Open-source MCP server that wraps all six, with your own Apify token: [datlabhq/
 
 Using an MCP client? You can pin an actor on Apify's hosted server: `https://mcp.apify.com/?tools=fetch-actor-details,datlab/site-to-markdown-crawler`. Or run the DatLab MCP server above.
 
+Building an agent? There's an [llms.txt](https://datlabhq.github.io/llms.txt) with when-to-use, a copy-paste call and the cost for each actor ([full version](https://datlabhq.github.io/llms-full.txt)).
+
 Found a page that converts badly? Open an issue here with the public URL.
